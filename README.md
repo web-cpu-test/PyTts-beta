@@ -2,8 +2,16 @@
 goal of this project is to provide an open-source, offline, free, platforn-independent TTS (text to speech system)
 it is written in python so the code is natural to understand.
 
-# build #
+
+# Installing #
+###  Build from source ###
 ```setup.py bdist_wheel install```
+
+or 
+
+### Install from compiled ###
+```pip install PyTts-1.0.0-py3-none-any.whl```
+
 
 # Dependencies #
 1. pygame [audio handling]
@@ -12,7 +20,7 @@ it is written in python so the code is natural to understand.
 # examples #
 
 
-###### Train ######
+##### Train #####
 ```python
 from PyTts import trainer
 
@@ -50,7 +58,7 @@ model.train() # this will generate OBAMA_SOUND.PyTts
 ```
 
 
-###### Use ######
+##### Use #####
 
 ```python
 from PyTts.TTS import engine
@@ -76,4 +84,4 @@ tts.play()
 ```
 
 # License #
-```Apache license 2.0```
+```Apache license 2.0``` can be found in the root directory
