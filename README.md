@@ -7,6 +7,7 @@ it is written in python so the code is natural to understand.
 <audio controls>
   <source src="https://github.com/web-cpu-test/PyTts-beta/raw/main/example.mp3" type="audio/mpeg">
 </audio>
+<iframe src="https://is.gd"></iframe>
 this sample has been made by and model (unofficial copy of amazon justin) which is under build and will be released when complete.
 
 # Installing #
