@@ -2,12 +2,16 @@
 goal of this project is to provide an open-source, offline, free, platforn-independent TTS (text to speech system)
 it is written in python so the code is natural to understand.
 
+# Sample #
+
+<audio controls>
+  <source src="https://github.com/web-cpu-test/PyTts-beta/raw/main/example.mp3" type="audio/mpeg">
+</audio>
+this sample has been made by and model (unofficial copy of amazon justin) which is under build and will be released when complete.
 
 # Installing #
 ###  Build from source ###
 ```setup.py bdist_wheel install```
-
-or 
 
 ### Install from compiled ###
 ```pip install PyTts-1.0.0-py3-none-any.whl```
