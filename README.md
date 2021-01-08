@@ -12,7 +12,7 @@
 
 
 # PyTts-beta #
-goal of this project is to provide an open-source, offline, free, platforn-independent TTS (text to speech system)
+Goal of this project is to provide an open-source, offline, free, platforn-independent TTS (text to speech system)
 it is written in python so the code is natural to understand.
 
 # Sample #
