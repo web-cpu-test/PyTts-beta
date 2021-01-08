@@ -1,11 +1,10 @@
 # EXTERNAL MODULES
 import numpy
-from os import environ
-environ['PYGAME_HIDE_SUPPORT_PROMPT'] = '1'
+import os # BUILT-IN MODULES
+os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = '1'
 from pygame import mixer
 
 # BUILT-IN MODULES
-import os
 import wave
 import json
 from functools import lru_cache
