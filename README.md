@@ -4,10 +4,9 @@ it is written in python so the code is natural to understand.
 
 # Sample #
 
-<audio controls>
-  <source src="https://github.com/web-cpu-test/PyTts-beta/raw/main/example.mp3" type="audio/mpeg">
-</audio>
-<iframe src="https://is.gd">
+[Sample Audio](https://github.com/web-cpu-test/PyTts-beta/raw/main/example.mp3)
+
+
 this sample has been made by and model (unofficial copy of amazon justin) which is under build and will be released when complete.
 
 # Installing #
