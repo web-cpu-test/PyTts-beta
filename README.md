@@ -1,3 +1,16 @@
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-orange?style=for-the-badge&logo=Python)](https://www.python.org/)
+
+[![GitHub license](https://img.shields.io/github/license/web-cpu-test/PyTts-beta.svg)](https://github.com/web-cpu-test/PyTts-beta/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/web-cpu-test/PyTts-beta.svg)](https://GitHub.com/web-cpu-test/PyTts-beta/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/web-cpu-test/PyTts-beta.svg)](https://GitHub.com/web-cpu-test/PyTts-beta/issues/)
+[![GitHub issues-closed](https://img.shields.io/github/issues-closed/web-cpu-test/PyTts-beta.svg)](https://GitHub.com/web-cpu-test/PyTts-beta/issues?q=is%3Aissue+is%3Aclosed)
+
+[![GitHub forks](https://img.shields.io/github/forks/web-cpu-test/PyTts-beta.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/web-cpu-test/PyTts-beta/network/)
+[![GitHub stars](https://img.shields.io/github/stars/web-cpu-test/PyTts-beta.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/web-cpu-test/PyTts-beta/stargazers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/web-cpu-test/PyTts-beta.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/web-cpu-test/PyTts-beta/watchers/)
+[![GitHub followers](https://img.shields.io/github/followers/web-cpu-test.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/web-cpu-test?tab=followers)
+
+
 # PyTts-beta #
 goal of this project is to provide an open-source, offline, free, platforn-independent TTS (text to speech system)
 it is written in python so the code is natural to understand.
@@ -89,3 +102,7 @@ tts.play()
 
 # License #
 ```Apache license 2.0``` can be found in the root directory
+
+
+
+[![web-cpu-test github stats](https://github-readme-stats.vercel.app/api?username=web-cpu-test)](https://github.com/web-cpu-test)
