@@ -2,6 +2,7 @@
 
 [![GitHub license](https://img.shields.io/github/license/web-cpu-test/PyTts-beta.svg)](https://github.com/web-cpu-test/PyTts-beta/blob/master/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/web-cpu-test/PyTts-beta.svg)](https://GitHub.com/web-cpu-test/PyTts-beta/graphs/contributors/)
+[![lgtm analysis](https://img.shields.io/lgtm/grade/python/g/web-cpu-test/PyTts-beta.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/web-cpu-test/PyTts-beta/context:python)
 [![GitHub issues](https://img.shields.io/github/issues/web-cpu-test/PyTts-beta.svg)](https://GitHub.com/web-cpu-test/PyTts-beta/issues/)
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/web-cpu-test/PyTts-beta.svg)](https://GitHub.com/web-cpu-test/PyTts-beta/issues?q=is%3Aissue+is%3Aclosed)
 
