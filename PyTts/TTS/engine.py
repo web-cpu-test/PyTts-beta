@@ -27,42 +27,12 @@ class TTS():
         encoder.flush()
 
     def play(self, volume = 1.0):
-        if volume != self.audio_mixer.get_volume() : self.audio_mixer.set_volume(volume)
         for chunk in self.obj.audio():
             snd = self.audio_mixer.Sound(array=chunk)
+            snd.set_volume(volume)
             snd.play()
             while self.audio_mixer.get_busy(): pass
 
 def __load_modules__(**args):
     for name,module in args.items():
         globals()[name] = module
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
