@@ -17,7 +17,7 @@ it is written in python so the code is natural to understand.
 
 # Sample #
 
-[![](https://raw.githubusercontent.com/web-cpu-test/PyTts-beta/main/audio.png)](https://github.com/web-cpu-test/PyTts-beta/raw/main/example.mp3)
+[![](https://raw.githubusercontent.com/web-cpu-test/PyTts-beta/main/audio.png)](http://webcputestexample.pythonanywhere.com/example.mp3)
 
 
 this sample has been made by and model (unofficial copy of amazon justin) which is under build and will be released when complete.
@@ -31,8 +31,8 @@ this sample has been made by and model (unofficial copy of amazon justin) which 
 
 
 # Dependencies #
-1. pygame [audio handling]
-1. numpy [model prediction]
+1. pygame [ audio handling   ]
+1. numpy  [ model prediction ]
 
 # examples #
 
