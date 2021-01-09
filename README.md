@@ -13,6 +13,9 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/web-cpu-test/PyTts-beta.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/web-cpu-test/PyTts-beta/watchers/)
 [![GitHub followers](https://img.shields.io/github/followers/web-cpu-test.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/web-cpu-test?tab=followers)
 
+> Version 0.0.1
+
+> Project Under Work
 
 # PyTts-beta #
 Goal of this project is to provide an open-source, offline, free, platforn-independent TTS (text to speech system)
